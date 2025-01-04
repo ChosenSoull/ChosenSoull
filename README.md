@@ -18,15 +18,15 @@
 
 ## Мои проекты:
 
-<div style="text-align: left;">
+<div style="text-align: center;">
 - [9-A-class-schedules](https://github.com/ChosenSoul/9-A-class-schedules) - Бот для расписания 9-А класса.
 </div>
 
 ## Связь со мной:
 
-<div style="text-align: left;">
+<div style="text-align: center;">
 - [Telegram](https://t.me/ChosenS0ul)
-- [Discord](https://discordapp.com/users/912451953106255894/)
+- [Diцscord](https://discordapp.com/users/912451953106255894/)
 </div>
 
 <div style="display: flex; justify-content: center; flex-direction: column;">
