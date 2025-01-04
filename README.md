@@ -23,6 +23,15 @@
 
 ## Связь со мной:
 
+<div align="center">
+  <a href="https://t.me/ChosenS0ul" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://discordapp.com/users/912451953106255894/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
+
 - [Telegram](https://t.me/ChosenS0ul)
 - [Discord](https://discordapp.com/users/912451953106255894/)
 
