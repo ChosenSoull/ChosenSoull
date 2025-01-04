@@ -30,4 +30,4 @@
 - [Discord] https://discordapp.com/users/912451953106255894/
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChosenSoul&show_icons=true&theme=dark&hide_border=true&hide_rank=false&disable_animations=false&locale=en&order=2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChosenSoul&show_icons=true&theme=dark&hide_border=true&hide_rank=false&disable_animations=false&locale=en&border=1)
