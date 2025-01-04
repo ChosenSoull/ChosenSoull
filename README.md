@@ -33,5 +33,5 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChosenSoul&show_icons=true&theme=dark&hide_border=false&icon_color=ffffff&locale=en&border_radius=10&border=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChosenSoul&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChosenSoul&layout=compact&theme=dark&hide_border=false&icon_color=ffffff&locale=en)
 </div>
