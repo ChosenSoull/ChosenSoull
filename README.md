@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; max-width: 800px; margin: 0 auto;">
+<div style="display: flex; flex-direction: column; align-items: center; max-width: 100%; margin: 0 auto;">
 
 # Привет! Меня зовут ChosenSoul
 
@@ -18,20 +18,13 @@
 
 ## Мои проекты:
 
-<div style="text-align: center;">
 - [9-A-class-schedules](https://github.com/ChosenSoul/9-A-class-schedules) - Бот для расписания 9-А класса.
-</div>
 
 ## Связь со мной:
 
-<div style="text-align: center;">
 - [Telegram](https://t.me/ChosenS0ul)
-- [Diцscord](https://discordapp.com/users/912451953106255894/)
-</div>
+- [Discord](https://discordapp.com/users/912451953106255894/)
 
-<div style="display: flex; justify-content: center; flex-direction: column;">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChosenSoul&show_icons=true&theme=dark&hide_border=false&icon_color=ffffff&locale=en&border_radius=10&border=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChosenSoul&layout=compact&theme=dark&hide_border=false&icon_color=ffffff&locale=en)
-</div>
-
 </div>
