@@ -17,10 +17,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" style="margin: 0 6px;" />
 </div>
 
-## Мои проекты:
-
-- [9-A-class-schedules](https://github.com/ChosenSoul/9-A-class-schedules) - Бот для расписания 9-А класса.
-
 ## Связь со мной:
 
 <div align="center">
@@ -31,9 +27,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=4D3675&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
-
-- [Telegram](https://t.me/ChosenS0ul)
-- [Discord](https://discordapp.com/users/912451953106255894/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChosenSoul&show_icons=true&theme=dark&hide_border=false&icon_color=ffffff&locale=en&border_radius=10&border=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChosenSoul&layout=compact&theme=dark&hide_border=false&icon_color=ffffff&locale=en)
