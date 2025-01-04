@@ -1,6 +1,8 @@
 <div style="display: flex; flex-direction: column; align-items: center; max-width: 100%; margin: 0 auto;">
 
+<div align="center">
 # Привет! Меня зовут ChosenSoul
+<div>
 
 Я начинающий разработчик, интересуюсь веб-разработкой
 
