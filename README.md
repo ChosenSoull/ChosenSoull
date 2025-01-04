@@ -1,4 +1,4 @@
-<div style="text-align: center; margin: 0 auto; max-width: 800px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 
 # Привет! Меня зовут ChosenSoul
 
