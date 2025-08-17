@@ -52,10 +52,10 @@
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=4D3675&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" style="border-radius: 32px;"/>
     </a>
     <a href="mailto:chosensouldev@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=email &logo=gmail&label=&color=AF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" style="border-radius: 32px;"/>
+      <img src="https://img.shields.io/static/v1?message=email &logo=gmail&label=&color=AF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" style="border-radius: 32px;"/>
     </a>
     <a href="https://leetcode.com/u/chosensoull" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=0D0D0D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" style="border-radius: 32px;"/>
+      <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=1E2122&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="leetcode logo" style="border-radius: 32px;"/>
     </a>
   </div>
 </div>
