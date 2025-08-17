@@ -1,16 +1,18 @@
-<h1>Привет !</h1>
+<h1>Привіт !</h1>
 
 <p align="center">
-[ [Русская версия] 
-| <a href="README.ru.md">English version</a> |
-  <a href="README.ua.md">Українська версія</a>
+[ <a href="README.ru.md">Русская версия</a> 
+| <a href="README.ua.md">English version</a> |
+  [Українська версія]
 ] 
 </p>
 
-<p>Я: Мое настоящее имя *&\%$#</p>
-<p>Я: Тсс держи это в секрете</p>
-<p>Я: Хорошо</p>
-<p>Почему я скрываю свое имя ? Потому что оно мне не нравиться, мне мало что нравиться, но я люблю только ее </p> 
+
+<p>Я: Моє справжнє ім'я &%$#</p>
+<p>Я: Тсс, тримай це в таємниці</p>
+<p>Я: Добре</p> 
+<p>
+Чому я приховую своє ім'я? Тому що воно мені не подобається. Мені мало що подобається, але я люблю лише її.</p>
 
 <svg style="display: none;">
   <symbol id="icon-heart" viewBox="0 0 24 24">
@@ -29,7 +31,7 @@
 </div>
 
 
-## Мои скилы:
+## Мої навички:
 
 <div>
       <img src="https://skillicons.dev/icons?i=c" height="40" style="margin: 0 6px;" />
@@ -39,7 +41,7 @@
       <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" style="margin: 0 6px;" />
 </div>
 
-## Связь со мной:
+## Зв'язатися зі мною:
 
 <div>
   <div>
