@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="heart.png" width="90" height="90"></img>
-  <img src="https://skillicons.dev/icons?i=c" height="90"/>
+  <img src="https://skillicons.dev/icons?i=c" height="90"/></img>
   <img src="heart.png" width="90" height="90"></img>
 </div>
 
